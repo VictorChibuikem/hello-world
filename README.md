@@ -4,3 +4,5 @@ My first repository on GitHub
 I love :coffee: :pizza:, and :dancer:.
 
 :football: is life
+
+Best of the best is God
